@@ -3,6 +3,9 @@ Hola  me llamo fredy vergas soy ceo de la company llamada platzi una aplicacion 
 fredy vegas tiene 37 anos
 
 y vive en colombia cambio de vida
+<<<<<<< HEAD
  manana no enfocaremos en su vida profosional.
 
  hey papu que pasa
+=======
+>>>>>>> parent of 1d5af76 (mi obra maestra cambio)
