@@ -12,3 +12,5 @@ un curso increible de git and github
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Creado por el increible platzi team
+* Incluye ejemplos Windows, linux y macs
+* Disponibles para todas la edades
